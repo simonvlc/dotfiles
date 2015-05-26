@@ -1,0 +1,27 @@
+# tail
+alias tne='tail -f /var/log/nginx/error.log'
+alias tna='tail -f /var/log/nginx/acces.log'
+
+# other
+alias df='df -h'
+alias du='du -h'
+
+# dir listings
+alias l='ls -lh'
+alias ll='ls -lah'
+
+# git
+alias gita='git add'
+alias gitc='git commit'
+alias gits='git status'
+alias gitp='git push'
+alias gitacp='git add . && git commit && git push'
+
+# apt
+alias aptuu='sudo apt-get update && sudo apt-get upgrade'
+
+# other
+alias h='history'
+
+# docker
+alias dl='docker ps -l -q'
