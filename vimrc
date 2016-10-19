@@ -1,4 +1,4 @@
-execute pathogen#infect()
+" execute pathogen#infect()
 
 set history=1000
 
@@ -35,7 +35,7 @@ syntax on
 filetype plugin on
 set number
 
-colorscheme molokai
+" colorscheme molokai
 
 " vim-go plugin
 let g:go_disable_autoinstall = 0  

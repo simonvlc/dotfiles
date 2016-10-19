@@ -50,7 +50,7 @@ export PATH=$PATH:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/s
 
 source $HOME/.aliases
 
-source $HOME/simonvlc-dev/dotfiles/iterm-colored-tabs.zsh
+# source $HOME/simonvlc-dev/dotfiles/iterm-colored-tabs.zsh
 
 export GOPATH=$HOME/dev/golang
 export GOROOT=/usr/local/opt/go/libexec

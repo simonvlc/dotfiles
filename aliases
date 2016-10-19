@@ -16,6 +16,7 @@ alias gitc='git commit'
 alias gits='git status'
 alias gitp='git push'
 alias gitacp='git add . && git commit && git push'
+alias gitco='git checkout'
 
 # apt
 alias aptuu='sudo apt-get update && sudo apt-get upgrade'
